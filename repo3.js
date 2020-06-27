@@ -1,6 +1,9 @@
 $(document).ready(function(){
-  $("#btn").click(function() {
-    $("#numb").hide();
-    });
-    });
+ function doit(){ }
+  
+function addone(){
+  var foo= document.getElementById("over").innerHTML;
+  foo++;
+  document.getElementById("over").innerHTML=foo;}})
+
     
