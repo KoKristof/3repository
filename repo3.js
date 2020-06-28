@@ -1,4 +1,4 @@
-document.ready
+
 const countBtn= document.querySelector(".countBtn button");
 const resetBtn= document.querySelector(".resetBtn button");
 let countNum= document.querySelector(".countNum h1");
